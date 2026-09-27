@@ -1,88 +1,93 @@
 # Hi, I'm Ajay Divakar 👋
 
-### Banking & Payments Operations | Data Analytics | Power BI | SQL | Python | AI & Automation
+### Banking & Payments Operations Professional | Data Analytics | Power BI | SQL | Python | AI & Automation
 
-Banking and Payments Operations professional with **7+ years of experience** in global banking environments. I am building a data analytics portfolio that combines my banking domain knowledge with **Power BI, SQL, Python, Excel, and automation** to solve business problems, improve operational efficiency, and support data-driven decisions.
+Banking and Payments Operations professional with **7+ years of experience** in global banking environments, now building practical expertise in **Data Analytics, Business Intelligence, and Automation**.
+
+I combine banking domain knowledge with **Power BI, SQL, Python, Excel, and AI-assisted automation** to analyze data, improve reporting, identify operational trends, and support better business decisions.
 
 ## 👨‍💼 Professional Profile
 
 - 🏦 Team Lead at Standard Chartered
-- 💳 Experience in banking operations, cross-border payments, reconciliation, transaction monitoring, exception management, and operational controls
+- 💳 Banking Operations, Cross-Border Payments, Reconciliation & Operational Controls
 - 🌍 Experience supporting multi-market banking and payments operations
-- 📊 Building practical expertise in Data Analytics and Business Intelligence
-- 📈 Creating dashboards and business reports using Power BI
-- 🗄️ Using SQL for data cleaning, transformation, querying, and analysis
-- 🐍 Using Python for data cleaning, EDA, statistics, and visualization
-- 🤖 Exploring AI tools and automation for productivity and process improvement
+- 📊 Hands-on portfolio across Python, SQL, Power BI, EDA and data visualization
+- 🐍 Python for data cleaning, exploratory analysis, statistics and visualization
+- 🗄️ SQL/MySQL for data cleaning, transformation and business analysis
+- 📈 Power BI for KPI reporting, interactive dashboards and business intelligence
+- 🤖 Developing knowledge in AI tools and workflow automation
 
-## 🛠️ Analytics Toolkit
+## 🛠️ Core Skills
 
-| Area | Tools & Skills |
+| Area | Skills & Tools |
 |---|---|
-| Business Intelligence | Power BI, DAX, Power Query |
-| Data Analysis | Python, Pandas, NumPy |
+| Data Analytics | Python, Pandas, NumPy, EDA, Statistical Analysis |
+| Business Intelligence | Power BI, DAX, Power Query, Dashboard Design |
 | Data Visualization | Matplotlib, Seaborn, Plotly, Power BI |
 | Databases | SQL, MySQL |
 | Spreadsheet Analytics | Microsoft Excel |
-| Banking Domain | Payments, SWIFT, Reconciliation, Transaction Monitoring, Exception Management, Operational Controls |
-| Current Focus | AI Tools, Automation, Advanced Data Analytics |
+| Banking & Payments | Cross-Border Payments, SWIFT, Reconciliation, Transaction Monitoring, Exception Management, Operational Controls |
+| Emerging Skills | AI Tools, Automation, AI-assisted Productivity |
 
-## 🚀 Featured Projects
+## 🚀 Featured Analytics Projects
+
+### 📣 [Google Ads Campaign Performance & Sales Analytics](https://github.com/ajaydivalarkalarickal-ai/Google-Ads-Campaign-Performance-Sales-Analytics-Using-Python)
+End-to-end Python analytics project using an uncleaned advertising and sales dataset, covering data preparation, EDA, statistical exploration, visualization, insight generation, and presentation.
+
+**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • EDA • Data Storytelling
 
 ### 📱 [Mobile Market Insights Dashboard](https://github.com/ajaydivalarkalarickal-ai/Mobile-Market-Insights-Dashboard)
-Interactive **Power BI** project exploring smartphone-market data and presenting product information through a structured business intelligence dashboard.
+Power BI project exploring smartphone market data and presenting product and market information through an interactive business intelligence dashboard.
 
-**Skills:** Power BI • Power Query • DAX • Excel • Dashboard Design
+**Tech:** Power BI • Power Query • DAX • Excel • Dashboard Design
+
+### 📣 [Social Media Engagement Analytics](https://github.com/ajaydivalarkalarickal-ai/Social-Media-Engagement-Analytics-Using-Python)
+Python analytics project covering data cleaning, exploratory analysis, descriptive statistics, engagement analysis, and multiple visualization techniques.
+
+**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • Plotly • EDA
+
+### 🗄️ [E-Commerce Customer Churn Analysis](https://github.com/ajaydivalarkalarickal-ai/E-Commerce-Customer-Churn-Analysis)
+MySQL project demonstrating data cleaning, transformation, aggregation, segmentation, and business-oriented customer analysis.
+
+**Tech:** SQL • MySQL • Data Cleaning • Data Transformation • Business Analysis
 
 ### 📊 [Sales Performance Dashboard](https://github.com/ajaydivalarkalarickal-ai/Sales-performance-Dashboard)
-Power BI dashboard project that transforms sales data into KPIs and visual information for monitoring business performance and trends.
+Power BI dashboard transforming sales data into KPIs and visual information for monitoring performance and business trends.
 
-**Skills:** Power BI • DAX • Power Query • KPI Analysis • Business Intelligence
-
-### 📣 [Social Media Engagement Analytics Using Python](https://github.com/ajaydivalarkalarickal-ai/Social-Media-Engagement-Analytics-Using-Python)
-End-to-end Python analytics project covering data cleaning, exploratory analysis, statistics, engagement analysis, and multiple visualization techniques.
-
-**Skills:** Python • Pandas • NumPy • Matplotlib • Seaborn • Plotly • EDA
-
-### 🗄️ [E-Commerce Customer Churn Analysis Using SQL](https://github.com/ajaydivalarkalarickal-ai/E-Commerce-Customer-Churn-Analysis)
-SQL project demonstrating data cleaning, transformation, aggregation, segmentation, and business-oriented analysis of customer churn data.
-
-**Skills:** MySQL • SQL • Data Cleaning • Data Transformation • Exploratory Analysis
+**Tech:** Power BI • DAX • Power Query • KPI Analysis • Business Intelligence
 
 ### 📋 [Survey Feedback Analyzer](https://github.com/ajaydivalarkalarickal-ai/Survey-Feedback-Analyzer)
-Python project applying fundamental programming techniques to clean and analyze textual survey feedback and ratings.
+Python fundamentals project applying string processing, functions, dictionaries and basic text analysis to survey feedback.
 
-**Skills:** Python • String Processing • Functions • Dictionaries • Basic Text Analysis
+**Tech:** Python • String Processing • Functions • Dictionaries
 
-## 📚 Analytics Learning Portfolio
+## 📚 Learning & Practice
 
-My repositories also document my progression through the core foundations of data analytics:
+My learning repositories show the progression behind the larger projects:
 
-- [Python Fundamentals Practice](https://github.com/ajaydivalarkalarickal-ai/Python-Basics)
-- [Data Analysis Using NumPy & Pandas](https://github.com/ajaydivalarkalarickal-ai/Python-DA-Assignment-1-Data-Analysis-using-NumPy-and-Pandas)
+- [Python Fundamentals](https://github.com/ajaydivalarkalarickal-ai/Python-Basics)
+- [NumPy & Pandas Data Analysis](https://github.com/ajaydivalarkalarickal-ai/Python-DA-Assignment-1-Data-Analysis-using-NumPy-and-Pandas)
 - [Python Data Visualization](https://github.com/ajaydivalarkalarickal-ai/Python-DA-Assignment-2---Data-Visualization)
-- [Data Cleaning Practice Dataset](https://github.com/ajaydivalarkalarickal-ai/Python-Data-Cleaning-EDA)
+- [Data Cleaning Practice](https://github.com/ajaydivalarkalarickal-ai/Python-Data-Cleaning-EDA)
 
-## 🎯 Career Focus
+## 🎯 Career Direction
 
-I am developing a profile at the intersection of:
+### **Banking & Payments Domain + Data Analytics + AI & Automation**
 
-### **Banking Domain Knowledge + Data Analytics + AI & Automation**
+My goal is to apply analytics and automation to real business and operational problems — particularly in areas such as payments analysis, reconciliation, operational reporting, exception management, process improvement, trend analysis, and decision support.
 
-My focus is on applying analytics and automation to areas such as operational reporting, payments analysis, reconciliation, exception management, process improvement, trend identification, and decision support.
-
-## 📈 Currently Developing
+## 📈 Currently Building
 
 - Advanced Power BI and dashboard storytelling
 - SQL-based business analysis
 - Python data cleaning and exploratory analysis
 - AI-assisted productivity and workflow automation
-- Analytics applications within banking and financial operations
+- Banking and payments analytics use cases
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 [LinkedIn](https://www.linkedin.com/in/ajay-divakar-payments) • [GitHub](https://github.com/ajaydivalarkalarickal-ai)
 
 ---
 
-*Building practical analytics projects while combining 7+ years of banking and payments experience with data, BI, and automation.*
+**Banking experience. Analytics capability. Automation mindset.**
