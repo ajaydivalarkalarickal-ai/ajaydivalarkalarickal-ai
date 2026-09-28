@@ -31,7 +31,7 @@ I combine banking domain knowledge with **Power BI, SQL, Python, Excel, and AI-a
 
 ## 🚀 Featured Analytics Projects
 
-### 📣 [Google Ads Campaign Performance & Sales Analytics](https://github.com/ajaydivalarkalarickal-ai/Google-Ads-Campaign-Performance-Sales-Analytics-Using-Python)
+### 📣 [Google Ads Campaign Performance and Sales Analytics](https://github.com/ajaydivalarkalarickal-ai/Google-Ads-Campaign-Performance-and-Sales-Analytics-Using-Python)
 End-to-end Python analytics project using an uncleaned advertising and sales dataset, covering data preparation, EDA, statistical exploration, visualization, insight generation, and presentation.
 
 **Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • EDA • Data Storytelling
